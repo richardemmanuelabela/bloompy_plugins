@@ -1,0 +1,1309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-26 20:07+0800\n"
+"PO-Revision-Date: 2025-06-26 20:17+0800\n"
+"Last-Translator: \n"
+"Language-Team: Nederlands\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Loco-Version: 2.4.6; wp-5.6\n"
+"X-Poedit-SearchPath-0: booknetic-customer-panel/App\n"
+"X-Poedit-SearchPath-1: booknetic-customer-invoices/App\n"
+"X-Poedit-SearchPath-2: bloompy-customer-invoices/App\n"
+"X-Poedit-SearchPathExcluded-0: booknetic-customer-panel/App/Frontend/assets/"
+"js/datepicker.min.js\n"
+"X-Poedit-SearchPathExcluded-1: booknetic-customer-panel/App/Frontend/assets/"
+"js/intlTelInput.min.js\n"
+"X-Poedit-SearchPathExcluded-2: booknetic-customer-panel/App/Frontend/assets/"
+"js/jquery.nicescroll.min.js\n"
+"X-Poedit-SearchPathExcluded-3: booknetic-customer-panel/App/Frontend/assets/"
+"js/utilsIntlTelInput.js\n"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:45
+#: bloompy-customer-invoices/App/Backend/view/tabs/appointment_info_fields.php:19
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:36
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:72
+#: bloompy-customer-invoices/App/Listener.php:133
+#: booknetic-customer-invoices/App/Backend/Controller.php:43
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:27
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:40
+#: booknetic-customer-invoices/App/Backend/view/tabs/appointment_info_fields.php:19
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:36
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:72
+#: booknetic-customer-invoices/App/Listener.php:53
+msgid "Customer Invoices"
+msgstr "Klantenpaneel"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:46
+msgid "INVOICE FIELDS"
+msgstr "FACTUURVELDEN"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:48
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:75
+#: booknetic-customer-invoices/App/Backend/Controller.php:45
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:75
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:69
+msgid "ID"
+msgstr "ID"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:49
+#: booknetic-customer-invoices/App/Backend/Controller.php:46
+msgid "Customer Name"
+msgstr "Klantnaam"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:50
+#: booknetic-customer-invoices/App/Backend/Controller.php:47
+msgid "Customer Email"
+msgstr "Klant-e-mail"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:51
+#: bloompy-customer-invoices/App/Backend/Controller.php:80
+#: booknetic-customer-invoices/App/Backend/Controller.php:48
+#: booknetic-customer-invoices/App/Backend/Controller.php:77
+msgid "Service"
+msgstr "Service"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:52
+#: booknetic-customer-invoices/App/Backend/Controller.php:49
+msgid "Date Created"
+msgstr "Datum aangemaakt"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:54
+#: booknetic-customer-invoices/App/Backend/Controller.php:51
+msgid "Invoice"
+msgstr "Factuur"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:81
+#: booknetic-customer-invoices/App/Backend/Controller.php:78
+msgid "Customer"
+msgstr "Klant"
+
+#: bloompy-customer-invoices/App/Backend/Controller.php:86
+#: booknetic-customer-invoices/App/Backend/Controller.php:83
+msgid "Staff"
+msgstr "Medewerker"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:27
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:30
+#, fuzzy
+#| msgid "Invoice"
+msgid "Invoices"
+msgstr "Factuur"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:29
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:32
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:29
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:16
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings_saas.php:15
+msgid "SAVE CHANGES"
+msgstr "WIJZIGINGEN OPSLAAN"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:30
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:30
+msgid "SAVE & DOWNLOAD PREVIEW"
+msgstr "OPSLAAN & VOORBEELD DOWNLOADEN"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:40
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:42
+msgid "INVOICE"
+msgstr "FACTUUR"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:45
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:46
+#, fuzzy
+#| msgid "CustomerInvoice name"
+msgid "Invoice name"
+msgstr "Klantfactuurnaam"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_customer_invoice.php:53
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:52
+msgid "Content"
+msgstr "Inhoud"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:54
+msgid "Invoice starting number"
+msgstr "Factuur startnummer"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:59
+msgid "000001"
+msgstr "000001"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:62
+msgid "Adding a starting invoice number can only be done once per year."
+msgstr ""
+"Het toevoegen van een startfactuurnummer kan slechts eenmaal per jaar "
+"worden gedaan."
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:72
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:73
+msgid "Company name"
+msgstr "Bedrijfsnaam"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:78
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:79
+msgid "Contact person"
+msgstr "Contactpersoon"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:84
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:85
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:119
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:119
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:110
+msgid "Phone"
+msgstr "Telefoon"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:90
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:91
+msgid "Address"
+msgstr "Adres"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:96
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:97
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:102
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:103
+msgid "City"
+msgstr "Stad"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:108
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:109
+msgid "Country"
+msgstr "Land"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:114
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:115
+msgid "KVK number"
+msgstr "KVK-nummer"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:120
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:121
+msgid "BTW number"
+msgstr "BTW-nummer"
+
+#: bloompy-customer-invoices/App/Backend/view/edit_invoice_option.php:128
+msgid "Footer Text"
+msgstr "Voettekst"
+
+#: bloompy-customer-invoices/App/Backend/view/tabs/appointment_info_fields.php:11
+#: booknetic-customer-invoices/App/Backend/view/tabs/appointment_info_fields.php:11
+msgid "No customer invoices found"
+msgstr "Geen klantfacturen gevonden"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:37
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:37
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:81
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:81
+msgid "CustomerInvoices"
+msgstr "Klantfacturen"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:150
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:150
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:129
+msgid "Redirecting..."
+msgstr "Omleiden..."
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:165
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:165
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:144
+msgid "January"
+msgstr "Januari"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:166
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:166
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:145
+msgid "February"
+msgstr "Februari"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:167
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:167
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:146
+msgid "March"
+msgstr "Maart"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:168
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:168
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:147
+msgid "April"
+msgstr "April"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:169
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:169
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:148
+msgid "May"
+msgstr "May"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:170
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:170
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:149
+msgid "June"
+msgstr "June"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:171
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:171
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:150
+msgid "July"
+msgstr "July"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:172
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:172
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:151
+msgid "August"
+msgstr "August"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:173
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:173
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:152
+msgid "September"
+msgstr "September"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:174
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:174
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:153
+msgid "October"
+msgstr "October"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:175
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:175
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:154
+msgid "November"
+msgstr "November"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:176
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:176
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:155
+msgid "December"
+msgstr "December"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:179
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:179
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:158
+msgid "Mon"
+msgstr "Mon"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:180
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:180
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:159
+msgid "Tue"
+msgstr "Tue"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:181
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:181
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:160
+msgid "Wed"
+msgstr "Wed"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:182
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:182
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:161
+msgid "Thu"
+msgstr "Thu"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:183
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:183
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:162
+msgid "Fri"
+msgstr "Fri"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:184
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:184
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:163
+msgid "Sat"
+msgstr "Sat"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:185
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:185
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:164
+msgid "Sun"
+msgstr "Sun"
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:188
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:188
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:167
+msgid "Select..."
+msgstr "Kies..."
+
+#: bloompy-customer-invoices/App/CustomerInvoicesAddon.php:189
+#: booknetic-customer-invoices/App/CustomerInvoicesAddon.php:189
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:168
+msgid "Searching..."
+msgstr "Zoeken..."
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:44
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:44
+#: booknetic-customer-panel/App/Frontend/Ajax.php:43
+msgid "Please fill all required fields!"
+msgstr "Vul alle verplichte velden in!"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:54
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:54
+#: booknetic-customer-panel/App/Frontend/Ajax.php:53
+msgid "Please enter a valid email address!"
+msgstr "Voer een geldig e-mailadres in!"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:61
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:61
+#: booknetic-customer-panel/App/Frontend/Ajax.php:60
+msgid "This email address is already used by another customer."
+msgstr "Dit e-mailadres wordt al door een andere klant gebruikt."
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:85
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:85
+#: booknetic-customer-panel/App/Frontend/Ajax.php:84
+msgid "Profile data was saved successfully"
+msgstr "Profielgegevens zijn succesvol opgeslagen"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:101
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:101
+#: booknetic-customer-panel/App/Frontend/Ajax.php:100
+msgid "Password does not match!"
+msgstr "Wachtwoord komt niet overeen!"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:109
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:109
+#: booknetic-customer-panel/App/Frontend/Ajax.php:108
+msgid "Current password is wrong!"
+msgstr "Het huidige wachtwoord is onjuist!"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:116
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:116
+#: booknetic-customer-panel/App/Frontend/Ajax.php:115
+msgid "Password was changed successfully"
+msgstr "Wachtwoord is succesvol gewijzigd"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:156
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:156
+#: booknetic-customer-panel/App/Frontend/Ajax.php:155
+msgid "Time format is wrong."
+msgstr "Het tijdsformaat is onjuist."
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:161
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:161
+#: booknetic-customer-panel/App/Frontend/Ajax.php:160
+msgid "You can not change the date and time to past."
+msgstr "U kunt de datum en tijd niet naar het verleden verplaatsen."
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:184
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:184
+#: booknetic-customer-panel/App/Frontend/Ajax.php:183
+#, php-format
+msgid ""
+"Minimum time requirement prior to change the appointment date and time is %s"
+msgstr ""
+"Minimale tijdsvereiste voorafgaand aan het wijzigen van de afspraakdatum en "
+"-tijd is %s"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:191
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:191
+#: booknetic-customer-panel/App/Frontend/Ajax.php:190
+#, php-format
+msgid "You cannot change the appointment less than %s in advance"
+msgstr "U kunt de afspraak niet minder dan %s van tevoren wijzigen"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:196
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:196
+#: booknetic-customer-panel/App/Frontend/Ajax.php:195
+msgid "You have not changed the date and time."
+msgstr "U hebt de datum en tijd niet gewijzigd."
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:204
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:204
+#: booknetic-customer-panel/App/Frontend/Ajax.php:203
+msgid "Appointment was rescheduled successfully!"
+msgstr "Afspraak succesvol verzet!"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:329
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:329
+#: booknetic-customer-panel/App/Frontend/Ajax.php:328
+msgid "Time limit to change appointment status expired"
+msgstr "Termijn voor het wijzigen van de afspraakstatus is verstreken"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:338
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:338
+#: booknetic-customer-panel/App/Frontend/Ajax.php:337
+msgid "Invalid appointment status"
+msgstr "Ongeldige afspraakstatus"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:342
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:342
+#: booknetic-customer-panel/App/Frontend/Ajax.php:341
+msgid "Change current status before save"
+msgstr "Huidige status wijzigen vóór opslaan"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:348
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:348
+#: booknetic-customer-panel/App/Frontend/Ajax.php:347
+#, php-format
+msgid "Appointment status changed to %s"
+msgstr "Afspraakstatus gewijzigd naar %s"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:392
+#: booknetic-customer-invoices/App/Frontend/Ajax.php:392
+#: booknetic-customer-panel/App/Frontend/Ajax.php:391
+msgid "Invalid payment method"
+msgstr "Ongeldige betaalmethode"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:585
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:34
+msgid "Pending"
+msgstr "In behandeling"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:588
+msgid "Paid (deposit)"
+msgstr "Betaald (aanbetaling)"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:590
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:31
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:86
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:61
+msgid "Paid"
+msgstr "Betaald"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:593
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:46
+msgid "Canceled"
+msgstr "Geannuleerd"
+
+#: bloompy-customer-invoices/App/Frontend/Ajax.php:595
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:37
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:40
+msgid "Not paid"
+msgstr "Niet betaald"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:43
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:68
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:45
+#: booknetic-customer-panel/App/Frontend/view/appointments_list.php:47
+msgid "Reschedule"
+msgstr "Opnieuw plannen"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:81
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:58
+#: booknetic-customer-panel/App/Frontend/view/appointments_list.php:53
+msgid "Pay Now"
+msgstr "Betaal nu"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:82
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:59
+msgid "Pay now"
+msgstr "Betaal nu"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:84
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:275
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:275
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:266
+msgid "Pay"
+msgstr "Betalen"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:96
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:73
+#: booknetic-customer-panel/App/Frontend/view/appointments_list.php:50
+msgid "Change Status"
+msgstr "Status wijzigen"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:110
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:76
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:82
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:87
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:76
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:82
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:75
+msgid "APPOINTMENT DATE"
+msgstr "AFSPRAAKDATUM"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:118
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:80
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:95
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:80
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:73
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:126
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:103
+#, fuzzy
+#| msgid "DURATION"
+msgid "LOCATION"
+msgstr "DUUR"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:134
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:83
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:111
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:83
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:76
+msgid "PRICE"
+msgstr "PRIJS"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:147
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:85
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:124
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:85
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:77
+msgid "DURATION"
+msgstr "DUUR"
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:155
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:86
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:132
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:86
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:78
+msgid "STATUS"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Frontend/view/appointments_list.php:165
+#: booknetic-customer-invoices/App/Frontend/view/appointments_list.php:142
+msgid "#"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:52
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:52
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:47
+msgid "Appointments"
+msgstr "Afspraken"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:58
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:58
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:53
+msgid "Profile"
+msgstr "Profiel"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:64
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:64
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:59
+msgid "Change password"
+msgstr "Wachtwoord wijzigen"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:78
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:78
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:71
+msgid "Company"
+msgstr "Bedrijf"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:81
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:81
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:74
+msgid "STAFF"
+msgstr "PERSONEEL"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:84
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:84
+msgid "Payment"
+msgstr "Betaling"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:87
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:87
+msgid "Link"
+msgstr "Link"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:101
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:101
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:92
+msgid "Name"
+msgstr "Naam"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:107
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:107
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:98
+msgid "Surname"
+msgstr "Achternaam"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:113
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:113
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:104
+msgid "Email"
+msgstr "Email"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:125
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:125
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:116
+msgid "Date of birth"
+msgstr "Geboortedatum"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:130
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:130
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:121
+msgid "Gender"
+msgstr "Geslacht"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:132
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:132
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:123
+msgid "Male"
+msgstr "Mannelijk"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:133
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:133
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:124
+msgid "Female"
+msgstr "Vrouwelijk"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:141
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:257
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:141
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:257
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:132
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:248
+msgid "SAVE"
+msgstr "OPSLAAN"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:145
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:145
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:136
+msgid "DELETE MY PROFILE"
+msgstr "VERWIJDER MIJN PROFIEL"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:156
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:156
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:147
+msgid "Current password"
+msgstr "Huidig ​​wachtwoord"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:162
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:162
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:153
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:169
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:169
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:160
+msgid "Repeat new password"
+msgstr "Herhaal nieuw wachtwoord"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:179
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:179
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:170
+msgid "CHANGE PASSWORD"
+msgstr "WACHTWOORD WIJZIGEN"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:194
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:194
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:185
+msgid "Are you sure you want to delete your profile?"
+msgstr "Weet u zeker dat u uw profiel wilt verwijderen?"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:197
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:212
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:197
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:212
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:188
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:203
+msgid "NO"
+msgstr "NEE"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:198
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:213
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:198
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:213
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:189
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:204
+msgid "YES"
+msgstr "JA"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:209
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:209
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:200
+msgid "Are you sure you want to change appointment status to?"
+msgstr "Weet u zeker dat u de afspraakstatus wilt wijzigen naar?"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:226
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:226
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:217
+msgid "Date"
+msgstr "Datum"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:230
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:230
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:221
+msgid "Time"
+msgstr "TijdTijd"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:236
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:256
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:274
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:236
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:256
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:274
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:227
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:247
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:265
+msgid "CANCEL"
+msgstr "ANNULEREN"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:237
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:237
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:228
+msgid "RESCHEDULE"
+msgstr "OPNIEUW PLANNEN"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:250
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:250
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:241
+msgid "Select Status"
+msgstr "Selecteer status"
+
+#: bloompy-customer-invoices/App/Frontend/view/customer_panel.php:268
+#: booknetic-customer-invoices/App/Frontend/view/customer_panel.php:268
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:259
+msgid "Select Payment Gateway"
+msgstr "Selecteer betalingsgateway"
+
+#: bloompy-customer-invoices/App/Listener.php:19
+#: booknetic-customer-invoices/App/Listener.php:18
+msgid "Invoice ID"
+msgstr "Factuur-ID"
+
+#: bloompy-customer-invoices/App/Listener.php:23
+msgid "Sum recurring one time payment"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:28
+#, fuzzy
+#| msgid "Appointments"
+msgid "Number of appointments"
+msgstr "Afspraken"
+
+#: bloompy-customer-invoices/App/Listener.php:32
+msgid "Bloompy days before an invoice expires"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:37
+msgid "Bloompy invoice starting number"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:42
+msgid "Bloompy company name"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:47
+msgid "Bloompy logo"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:52
+msgid "Bloompy contact person"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:57
+msgid "Bloompy phone"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:62
+msgid "Bloompy address"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:67
+msgid "Bloompy Zipcode"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:72
+msgid "Bloompy city"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:77
+msgid "Bloompy country"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:82
+msgid "Bloompy IBAN"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:87
+msgid "Bloompy KVK number"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:92
+msgid "Bloompy BTW number"
+msgstr ""
+
+#: bloompy-customer-invoices/App/Listener.php:97
+msgid "Bloompy footer text"
+msgstr ""
+
+#: booknetic-customer-invoices/App/Backend/Ajax.php:23
+msgid "Please fill in all required fields correctly!"
+msgstr "Vul alle verplichte velden correct in!"
+
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:45
+msgid "CustomerInvoice name"
+msgstr "Klantfactuurnaam"
+
+#: booknetic-customer-invoices/App/Backend/view/edit_customer_invoice.php:46
+msgid "Customer Invoice name"
+msgstr "Naam van de klantfactuur"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:21
+msgid "Front-end panels"
+msgstr "Front-end panelen"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:22
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings_saas.php:20
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:68
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:84
+msgid "Customer Panel"
+msgstr "Klantenpaneel"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:32
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings_saas.php:30
+msgid "Disabled"
+msgstr "Gehandicapt"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:36
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings_saas.php:34
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:47
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings_saas.php:43
+msgid "Page of Customer Panel"
+msgstr "Pagina van het klantenpaneel"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:57
+msgid "Time restriction to change appointments"
+msgstr "Tijdsbeperking voor het wijzigen van afspraken"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:97
+msgid "Allow customers to change appointment status"
+msgstr "Klanten toestaan ​​de afspraakstatus te wijzigen"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:105
+msgid "Customers can change appointment status to"
+msgstr "Klanten kunnen de afspraakstatus wijzigen naar"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:122
+msgid "Allow customers to reschedule their appointments"
+msgstr "Klanten de mogelijkheid bieden om hun afspraken opnieuw in te plannen"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:131
+msgid "Customers can reschedule with these appointment statuses"
+msgstr "Klanten kunnen met deze afspraakstatussen een nieuwe afspraak maken"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:144
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings_saas.php:54
+msgid "Allow customers to delete their account"
+msgstr "Klanten toestaan ​​hun account te verwijderen"
+
+#: booknetic-customer-panel/App/Backend/view/modal/customer_panel_settings.php:155
+msgid "Hide the \"Pay now\" button on the Customer Panel"
+msgstr "Verberg de knop \"Nu betalen\" op het klantenpaneel"
+
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:42
+msgid "Customer Panel settings"
+msgstr "Instellingen voor het klantenpaneel"
+
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:45
+msgid "Customer Panel URL"
+msgstr "URL van klantenpaneel"
+
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:49
+msgid "Customer Panel Restriction Time"
+msgstr "Beperkingstijd voor klantenpaneel"
+
+#: booknetic-customer-panel/App/CustomerPanelAddon.php:85
+msgid "You can customize customer panel settings from here"
+msgstr "Hier kunt u de instellingen van het klantenpaneel aanpassen"
+
+#: booknetic-customer-panel/App/Frontend/view/customer_panel.php:35
+msgid "LOGOUT"
+msgstr "UITLOGGEN"
+
+#: booknetic-customer-panel/App/Integrations/Divi/includes/modules/CustomerPanel/CustomerPanel.php:16
+msgid "Booknetic Customer Panel"
+msgstr "Booknetic Klantenpaneel"
+
+#: booknetic-customer-panel/App/Listener.php:32
+msgid "Customer panel URL"
+msgstr "URL van klantenpaneel"
+
+#~ msgid "Location"
+#~ msgstr "Locatie"
+
+#~ msgid "Service Extras"
+#~ msgstr "Service Extras"
+
+#~ msgid "Date & Time"
+#~ msgstr "Datum & Tijd"
+
+#~ msgid "Information"
+#~ msgstr "Informatie"
+
+#~ msgid "Confirmation"
+#~ msgstr "Bevestiging"
+
+#~ msgid "Have any questions?"
+#~ msgstr "Pc/Langsbrengen"
+
+#~ msgid "Select service"
+#~ msgstr "Selecteer dienst"
+
+#~ msgid "BACK"
+#~ msgstr "TERUG"
+
+#~ msgid "NEXT STEP"
+#~ msgstr "DE VOLGENDE"
+
+#, php-format
+#~ msgid "Minimum length of \"%s\" field is %d!"
+#~ msgstr "Minimum length of \"%s\" field is %d!"
+
+#, php-format
+#~ msgid "Maximum length of \"%s\" field is %d!"
+#~ msgstr "Maximum length of \"%s\" field is %d!"
+
+#~ msgid "File extension is not allowed!"
+#~ msgstr "File extension is not allowed!"
+
+#~ msgid "DATE"
+#~ msgstr "DATE"
+
+#~ msgid "Days of week"
+#~ msgstr "Days of week"
+
+#~ msgid "Monday"
+#~ msgstr "Monday"
+
+#~ msgid "Tuesday"
+#~ msgstr "Tuesday"
+
+#~ msgid "Wednesday"
+#~ msgstr "Wednesday"
+
+#~ msgid "Thursday"
+#~ msgstr "Thursday"
+
+#~ msgid "Friday"
+#~ msgstr "Friday"
+
+#~ msgid "Saturday"
+#~ msgstr "Saturday"
+
+#~ msgid "Sunday"
+#~ msgstr "Sunday"
+
+#~ msgid "Every"
+#~ msgstr "Every"
+
+#~ msgid "DAYS"
+#~ msgstr "DAYS"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Specific day"
+#~ msgstr "Specific day"
+
+#~ msgid "First"
+#~ msgstr "First"
+
+#~ msgid "Second"
+#~ msgstr "Second"
+
+#~ msgid "Third"
+#~ msgstr "Third"
+
+#~ msgid "Fourth"
+#~ msgstr "Fourth"
+
+#~ msgid "Last"
+#~ msgstr "Last"
+
+#~ msgid "Start date"
+#~ msgstr "Start date"
+
+#~ msgid "End date"
+#~ msgstr "End date"
+
+#~ msgid "Times"
+#~ msgstr "Times"
+
+#~ msgid "TIME"
+#~ msgstr "TIME"
+
+#, fuzzy
+#~| msgid "START NEW BOOKING"
+#~ msgid "START MEETING"
+#~ msgstr "BEGIN EEN NIEUWE BOEKING"
+
+#~ msgid "EDIT"
+#~ msgstr "EDIT"
+
+#~ msgid "Discount"
+#~ msgstr "Discount"
+
+#, fuzzy
+#~| msgid "Full amount"
+#~ msgid "Tax amount"
+#~ msgstr "Full amount"
+
+#, fuzzy
+#~| msgid "Start date"
+#~ msgid "Starting guide"
+#~ msgstr "Start date"
+
+#, fuzzy
+#~| msgid "Select location"
+#~ msgid "Create location"
+#~ msgstr "Selecteer een locatie"
+
+#, fuzzy
+#~| msgid "Select staff"
+#~ msgid "Create staff"
+#~ msgstr "Selecteer personeel"
+
+#, fuzzy
+#~| msgid "Select service"
+#~ msgid "Create service"
+#~ msgstr "Selecteer dienst"
+
+#, fuzzy
+#~| msgid "Select date"
+#~ msgid "Select payment method"
+#~ msgstr "Selecteer Datum"
+
+#~ msgid "Credit card"
+#~ msgstr "Credit card"
+
+#, fuzzy
+#~| msgid "Please select service"
+#~ msgid "Please select WordPress user!"
+#~ msgstr "Selecteer een service"
+
+#, fuzzy
+#~| msgid "Location"
+#~ msgid "Notifications"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~| msgid "Credit card"
+#~ msgid "Giftcards"
+#~ msgstr "Credit card"
+
+#, fuzzy
+#~| msgid "Credit card"
+#~ msgid "Add Giftcard"
+#~ msgstr "Credit card"
+
+#, fuzzy
+#~| msgid "Select date"
+#~ msgid "Select Type"
+#~ msgstr "Selecteer Datum"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgid "Tab Name"
+#~ msgstr "Naam"
+
+#, fuzzy
+#~| msgid "Select date"
+#~ msgid "Select Language"
+#~ msgstr "Selecteer Datum"
+
+#, fuzzy
+#~| msgid "Select service"
+#~ msgid "Select Service"
+#~ msgstr "Selecteer dienst"
+
+#, fuzzy
+#~| msgid "Select location"
+#~ msgid "Select Location"
+#~ msgstr "Selecteer een locatie"
+
+#~ msgid "Daily"
+#~ msgstr "Daily"
+
+#~ msgid "Deposit"
+#~ msgstr "Deposit"
+
+#~ msgid "Paypal"
+#~ msgstr "Paypal"
+
+#~ msgid "Any staff"
+#~ msgstr "Any staff"
+
+#~ msgid "Select an available staff"
+#~ msgstr "Select an available staff"
+
+#~ msgid "Add coupon"
+#~ msgstr "Add coupon"
+
+#~ msgid "Please select location."
+#~ msgstr "Selecteer een locatie."
+
+#~ msgid "Please select staff."
+#~ msgstr "Please select staff."
+
+#~ msgid "Please select service"
+#~ msgstr "Selecteer een service"
+
+#~ msgid "Please select week day(s)"
+#~ msgstr "Please select week day(s)"
+
+#~ msgid "Please select week day(s) and time(s) correctly"
+#~ msgstr "Please select week day(s) and time(s) correctly"
+
+#~ msgid "Please select start date"
+#~ msgstr "Please select start date"
+
+#~ msgid "Please select end date"
+#~ msgstr "Please select end date"
+
+#~ msgid "Please select date."
+#~ msgstr "Please select date."
+
+#~ msgid "Please select time."
+#~ msgstr "Selecteer een tijd."
+
+#~ msgid "Please select an available time"
+#~ msgstr "Please select an available time"
+
+#~ msgid "Please enter a valid phone number!"
+#~ msgstr "Please enter a valid phone number!"
+
+#~ msgid "CONFIRM BOOKING"
+#~ msgstr "BEVESTIG DE BOEKING"
+
+#~ msgid "There is no any Location for select."
+#~ msgstr "There is no any Location for select."
+
+#~ msgid "Staff not found. Please go back and select a different option."
+#~ msgstr "Staff not found. Please go back and select a different option."
+
+#~ msgid "Service not found. Please go back and select a different option."
+#~ msgstr "Service not found. Please go back and select a different option."
+
+#~ msgid "There isn't any available staff for the selected date/time."
+#~ msgstr "There isn&#039;t any available staff for the selected date/time."
+
+#~ msgid ""
+#~ "Extras not found in this service. You can select other service or click "
+#~ "the <span class=\"booknetic_text_primary\">\"Next step\"</span> button."
+#~ msgstr ""
+#~ "Extras not found in this service. You can select other service or click "
+#~ "the <span class=\"booknetic_text_primary\">\"Next step\"</span> button."
+
+#~ msgid "w"
+#~ msgstr "w"
+
+#~ msgid "d"
+#~ msgstr "d"
+
+#~ msgid "h"
+#~ msgstr "h"
+
+#~ msgid "m"
+#~ msgstr "m"
+
+#~ msgid "s"
+#~ msgstr "s"
+
+#~ msgid "Finish"
+#~ msgstr "Einde"
+
+#, fuzzy
+#~| msgid "Time"
+#~ msgid "Timezone"
+#~ msgstr "Tijd"
+
+#, fuzzy
+#~| msgid "Location"
+#~ msgid "Location ID"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~| msgid "Confirmation"
+#~ msgid "Skip the Confirmation step"
+#~ msgstr "Bevestiging"
+
+#, fuzzy
+#~| msgid "There is no any Location for select."
+#~ msgid "There is no Location to match your request."
+#~ msgstr "There is no any Location for select."
+
+#, fuzzy
+#~| msgid "Please select date."
+#~ msgid "Please select payment method!"
+#~ msgstr "Please select date."
+
+#~ msgid "Thank you for your request!"
+#~ msgstr "Dankjewel voor je aanvraag!"
+
+#~ msgid "Your confirmation number:"
+#~ msgstr "Uw bevestigingsnummer:"
+
+#~ msgid "ADD TO GOOGLE CALENDAR"
+#~ msgstr "TOEVOEGEN AAN GOOGLE AGENDA"
+
+#~ msgid "START NEW BOOKING"
+#~ msgstr "BEGIN EEN NIEUWE BOEKING"
+
+#~ msgid "FINISH BOOKING"
+#~ msgstr "EINDE BOEKING"
+
+#, fuzzy
+#~| msgid "Add coupon"
+#~ msgid "Coupon"
+#~ msgstr "Add coupon"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#, fuzzy
+#~| msgid "Credit card"
+#~ msgid "Giftcard"
+#~ msgstr "Credit card"
+
+#~ msgid "Total price"
+#~ msgstr "Totale prijs"
+
+#~ msgid "Full amount"
+#~ msgstr "Full amount"
+
+#~ msgid "Select date"
+#~ msgstr "Selecteer Datum"
+
+#, fuzzy
+#~| msgid "Please enter a valid phone number!"
+#~ msgid "Please enter the purchase code!"
+#~ msgstr "Please enter a valid phone number!"
+
+#~ msgid "Select staff"
+#~ msgstr "Selecteer personeel"
+
+#~ msgid "Select location"
+#~ msgstr "Selecteer een locatie"
+
+#~ msgid "Select service extras"
+#~ msgstr "Select service extras"
+
+#~ msgid "Fill information"
+#~ msgstr "Vul informatie in"
+
+#~ msgid "Select Date & Time"
+#~ msgstr "Selecteer Datum en tijd"
+
+#~ msgid "Confirm Details"
+#~ msgstr "Bevestig details"
+
+#, fuzzy
+#~| msgid "Second"
+#~ msgid "second"
+#~ msgstr "Second"
+
+#, fuzzy
+#~| msgid "Second"
+#~ msgid "seconds"
+#~ msgstr "Second"

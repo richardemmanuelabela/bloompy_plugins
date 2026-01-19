@@ -1,0 +1,1275 @@
+.booknetic_client_panel *
+{
+	font-family: 'Poppins', sans-serif !important;
+	box-sizing: border-box;
+
+	align-content: unset;
+	align-items: unset;
+	align-self: unset;
+	animation: unset;
+	appearance: unset;
+	backface-visibility: unset;
+	background-blend-mode: unset;
+	background: unset;
+	binding: unset;
+	block-size: unset;
+	border-block-end: unset;
+	border-block-start: unset;
+	border-collapse: unset;
+	border-inline-end: unset;
+	border-inline-start: unset;
+	border-radius: unset;
+	border-spacing: unset;
+	border: unset;
+	bottom: unset;
+	box-align: unset;
+	box-decoration-break: unset;
+	box-direction: unset;
+	box-flex: unset;
+	box-ordinal-group: unset;
+	box-orient: unset;
+	box-pack: unset;
+	box-shadow: unset;
+	caption-side: unset;
+	clear: unset;
+	clip-path: unset;
+	clip-rule: unset;
+	clip: unset;
+	color-adjust: unset;
+	color-interpolation-filters: unset;
+	color-interpolation: unset;
+	color: unset;
+	column-fill: unset;
+	column-gap: unset;
+	column-rule: unset;
+	columns: unset;
+	content: unset;
+	control-character-visibility: unset;
+	counter-increment: unset;
+	counter-reset: unset;
+	cursor: unset;
+	dominant-baseline: unset;
+	empty-cells: unset;
+	fill-opacity: unset;
+	fill-rule: unset;
+	fill: unset;
+	filter: unset;
+	flex-flow: unset;
+	flex: unset;
+	float-edge: unset;
+	float: unset;
+	flood-color: unset;
+	flood-opacity: unset;
+	font-feature-settings: unset;
+	font-kerning: unset;
+	font-language-override: unset;
+	font-size-adjust: unset;
+	font-size: unset;
+	font-stretch: unset;
+	font-style: unset;
+	font-synthesis: unset;
+	font-variant: unset;
+	font-weight: unset;
+	force-broken-image-icon: unset;
+	height: unset;
+	hyphens: unset;
+	image-orientation: unset;
+	image-region: unset;
+	image-rendering: unset;
+	ime-mode: unset;
+	inline-size: unset;
+	isolation: unset;
+	justify-content: unset;
+	justify-items: unset;
+	justify-self: unset;
+	left: unset;
+	letter-spacing: unset;
+	lighting-color: unset;
+	line-height: unset;
+	list-style: unset;
+	margin-block-end: unset;
+	margin-block-start: unset;
+	margin-inline-end: unset;
+	margin-inline-start: unset;
+	margin: unset;
+	marker-offset: unset;
+	marker: unset;
+	mask-type: unset;
+	mask: unset;
+	max-block-size: unset;
+	max-height: unset;
+	max-inline-size: unset;
+	max-width: unset;
+	min-block-size: unset;
+	min-height: unset;
+	min-inline-size: unset;
+	min-width: unset;
+	mix-blend-mode: unset;
+	object-fit: unset;
+	object-position: unset;
+	offset-block-end: unset;
+	offset-block-start: unset;
+	offset-inline-end: unset;
+	offset-inline-start: unset;
+	opacity: unset;
+	order: unset;
+	orient: unset;
+	outline-offset: unset;
+	outline-radius: unset;
+	outline: unset;
+	overflow: unset;
+	padding-block-end: unset;
+	padding-block-start: unset;
+	padding-inline-end: unset;
+	padding-inline-start: unset;
+	padding: unset;
+	page-break-after: unset;
+	page-break-before: unset;
+	page-break-inside: unset;
+	paint-order: unset;
+	perspective-origin: unset;
+	perspective: unset;
+	pointer-events: unset;
+	position: unset;
+	quotes: unset;
+	resize: unset;
+	right: unset;
+	ruby-align: unset;
+	ruby-position: unset;
+	scroll-behavior: unset;
+	scroll-snap-coordinate: unset;
+	scroll-snap-destination: unset;
+	scroll-snap-points-x: unset;
+	scroll-snap-points-y: unset;
+	scroll-snap-type: unset;
+	shape-rendering: unset;
+	stack-sizing: unset;
+	stop-color: unset;
+	stop-opacity: unset;
+	stroke-dasharray: unset;
+	stroke-dashoffset: unset;
+	stroke-linecap: unset;
+	stroke-linejoin: unset;
+	stroke-miterlimit: unset;
+	stroke-opacity: unset;
+	stroke-width: unset;
+	stroke: unset;
+	tab-size: unset;
+	table-layout: unset;
+	text-align-last: unset;
+	text-align: unset;
+	text-anchor: unset;
+	text-combine-upright: unset;
+	text-decoration: unset;
+	text-emphasis-position: unset;
+	text-emphasis: unset;
+	text-indent: unset;
+	text-orientation: unset;
+	text-overflow: unset;
+	text-rendering: unset;
+	text-shadow: unset;
+	text-size-adjust: unset;
+	text-transform: unset;
+	top: unset;
+	transform-origin: unset;
+	transform-style: unset;
+	transform: unset;
+	transition: unset;
+	user-focus: unset;
+	user-input: unset;
+	user-modify: unset;
+	user-select: unset;
+	vector-effect: unset;
+	vertical-align: unset;
+	visibility: unset;
+	white-space: unset;
+	width: unset;
+	will-change: unset;
+	window-dragging: unset;
+	word-break: unset;
+	word-spacing: unset;
+	word-wrap: unset;
+	writing-mode: unset;
+	z-index: unset;
+}
+
+.booknetic_client_panel .form-row label
+{
+	color: #292D32;
+}
+
+.booknetic_client_panel .fa, .booknetic_client_panel .far, .booknetic_client_panel .fas, .booknetic_client_panel .fab
+{
+	font-style: normal !important;
+	font-variant-ligatures: normal !important;
+	font-variant-caps: normal !important;
+	font-variant-numeric: normal !important;
+	font-variant-east-asian: normal !important;
+	/*font-weight: normal !important;*/
+	font-stretch: normal !important;
+	font-size: 14px !important;
+	line-height: 1 !important;
+	font-family: "Font Awesome 5 Free" !important;
+}
+
+.booknetic_client_panel
+{
+	width: 1200px !important;
+	max-width: 1200px !important;
+}
+.booknetic_cp_header
+{
+	background: #292D32;
+	height: 220px;
+	padding: 40px 40px 0 40px;
+}
+.booknetic_cp_header_top
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+.booknetic_cp_header_customer_card
+{
+	display: flex;
+}
+
+.booknetic_cp_header_customer_image
+{
+	width: 72px;
+	height: 72px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.booknetic_cp_header_customer_image > img
+{
+	width: 100%;
+}
+
+.booknetic_cp_header_customer_info
+{
+	margin-left: 25px;
+	color: #FFF;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.booknetic_cp_header_customer_info > :first-child
+{
+	font-size: 26px;
+	line-height: 39px;
+}
+.booknetic_cp_header_customer_info > :last-child
+{
+	color: #828F9A;
+	font-size: 14px;
+	line-height: 21px;
+	text-align: left;
+}
+
+
+.booknetic_cp_header_menu
+{
+	border-top: 1px solid rgba(255,255,255,0.05);
+	margin: 45px -40px 0;
+	height: 65px;
+	display: flex;
+	padding: 0 40px;
+	overflow: auto;
+}
+
+.booknetic_cp_header_menu > .booknetic_cp_header_menu_item
+{
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #828F9A;
+	font-size: 14px;
+	padding: 0 20px;
+	cursor: pointer;
+	white-space: nowrap;
+}
+.booknetic_cp_header_menu_active
+{
+	position: relative;
+	background-color: rgba(255,255,255,0.05);
+}
+.booknetic_cp_header_menu_active:after
+{
+	position: absolute;
+	bottom: 2px;
+	height: 4px;
+	background: #7E82FF;
+	width: 100%;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	content: '';
+}
+.booknetic_cp_header_menu > .booknetic_cp_header_menu_item:not(.booknetic_cp_header_menu_active) ~ .booknetic_cp_header_menu_item:not(.booknetic_cp_header_menu_active)
+{
+	border-left: 1px solid rgba(255,255,255,0.05);
+}
+
+.booknetic_cp_header_menu > .booknetic_cp_header_menu_item > i
+{
+	padding-right: 10px;
+}
+.booknetic_cp_header_menu_active > i
+{
+	color: #7E82FF;
+}
+
+.booknetic_cp_header_menu > .booknetic_cp_header_menu_item > .booknetic_cp_badge
+{
+	height: 18px;
+	width: 18px;
+	background-color: #EF264D;
+	border-radius: 50%;
+	color: #FFF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 12px;
+	font-weight: 500;
+	position: absolute;
+	top: 13px;
+	right: 3px;
+	line-height: 18px;
+}
+
+.booknetic_cp_header_logout_btn
+{
+	height: 42px;
+	width: 112px;
+	border-radius: 2px;
+	background-color: rgba(255,255,255,0.1) !important;
+	color: rgba(255,255,255,0.3) !important;
+	font-size: 12px;
+	font-weight: 600;
+	text-align: center;
+	line-height: 18px;
+	outline: none !important;
+	cursor: pointer;
+}
+
+.booknetic_cp_header_logout_btn > i
+{
+	margin-right: 5px;
+}
+
+
+.booknetic_cp_body
+{
+	background: #f5f7fa;
+	padding: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.booknetic_elegant_table
+{
+	width: 100%;
+	border-collapse: separate;
+	border: 0;
+	border-spacing: 0 5px;
+}
+
+.booknetic_elegant_table > tbody > tr
+{
+	box-shadow: 0 0 10px 0 #EAECEF;
+	transition: box-shadow .2s ease-in-out;
+}
+
+.booknetic_elegant_table > tbody > tr:hover
+{
+	box-shadow: 0 0 10px 1px #dbdde0;
+}
+
+.booknetic_elegant_table > tbody > tr > td:first-child
+{
+	border-bottom-left-radius: 3px;
+	border-top-left-radius: 3px;
+}
+
+.booknetic_elegant_table > tbody > tr > td:last-child
+{
+	border-bottom-right-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.booknetic_elegant_table > tbody > tr > td
+{
+	position: relative;
+	height: 65px;
+	vertical-align: middle;
+	text-align: left;
+	background: #FFF;
+	padding: 2px 10px;
+	border-left: 0;
+	font-size: 14px;
+	color: #292D32;
+	vertical-align: middle;
+}
+.booknetic_elegant_table > thead > tr > th
+{
+	text-align: left;
+	padding-left: 8px;
+	font-size: 12px;
+	font-weight: 600;
+	background: #FFFFFF;
+	color: #4D545A;
+	height: 55px;
+	padding-bottom: 0;
+	padding-top: 11px;
+	vertical-align: middle;
+}
+.booknetic_elegant_table > thead > tr > th > i
+{
+	color: #B1C2C9;
+	padding: 3px;
+}
+
+.booknetic_elegant_table, .booknetic_elegant_table > thead
+{
+	position: relative;
+}
+
+
+.booknetic_elegant_table > thead:before
+{
+	position: absolute;
+	content: '';
+	top: 60px;
+	left: 0;
+	width: 100%;
+	height: 15px;
+	background: #FFF;
+}
+
+.booknetic_elegant_table > thead:after
+{
+	position: absolute;
+	content: '';
+	top: 75px;
+	left: 0;
+	width: 100%;
+	height: 75px;
+
+	-webkit-box-shadow: 0 -30px 30px -30px rgba(0, 0, 0, 0.08);
+	-moz-box-shadow: 0 -30px 30px -30px rgba(0, 0, 0, 0.08);
+	box-shadow: 0 -30px 30px -30px rgba(0, 0, 0, 0.08);
+
+	background: transparent;
+
+}
+.booknetic_data_table.booknetic_elegant_table>thead>tr:first-child>th:first-child
+{
+	width: 50px;
+	text-align: center;
+}
+.booknetic_data_table.booknetic_elegant_table>tbody>tr>td:first-child:not(:last-child)
+{
+	text-align: center;
+}
+.booknetic_data_table.booknetic_elegant_table>tbody>tr>td:last-child:not(:first-child)
+{
+	text-align: right;
+	padding-right: 40px;
+}
+
+
+.user_visit_card
+{
+	display: flex;
+}
+
+.user_visit_card > .user_visit_details
+{
+	display: flex;
+	flex-direction: column;
+	padding-left: 13px;
+	justify-content: center;
+	height: 42px;
+}
+
+.user_visit_card > .user_visit_details > :first-child
+{
+	color: #292D32;
+	font-size: 14px;
+}
+
+.user_visit_card > .user_visit_details > :last-child
+{
+	color: #95A0A9;
+	font-size: 12px;
+}
+
+
+.circle_image
+{
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+
+	width: 42px;
+	height: 42px;
+
+	overflow: hidden;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background: rgba(255,255,255,0.8);
+}
+.circle_image > img
+{
+	min-width: 100%;
+	min-height: 100%;
+	object-fit: cover;
+}
+
+.booknetic_reschedule_btn
+{
+	height: 36px;
+	width: 36px;
+	border-radius: 4px;
+	background-color: rgba(32,120,250,0.15) !important;
+	color: #2078FA !important;
+	font-size: 17px;
+	text-align: center;
+	outline: none !important;
+	cursor: pointer;
+}
+
+.booknetic_change_status_btn
+{
+	height: 36px;
+	width: 36px;
+	border-radius: 4px;
+	background-color: rgba(32,120,250,0.15) !important;
+	color: #2078FA !important;
+	font-size: 17px;
+	text-align: center;
+	outline: none !important;
+	cursor: pointer;
+}
+
+.booknetic_appointment_status_all
+{
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.booknetic_appointment_status_approved
+{
+	color: #52c068;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.booknetic_appointment_status_canceled
+{
+	color: #fb3e6e;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.booknetic_appointment_status_pending
+{
+	color: #e09b22;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.booknetic_appointment_status_rejected
+{
+	color: #9b9fa3;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.booknetic_client_panel .booknetic_hidden
+{
+	display: none;
+}
+
+.booknetic_cp_profile_footer
+{
+	width: calc(100% + 80px);
+	height: 90px;
+	background: #FFF;
+	margin: 100px -40px -40px -40px;
+	box-shadow: 0 0 30px 0 rgba(0,0,0,0.05);
+	padding: 0 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+
+
+
+
+
+.booknetic_btn_primary
+{
+	height: 46px;
+	font-weight: 600;
+	font-size: 12px !important;
+	line-height: 18px;
+	padding: 5px 25px !important;
+	outline: none !important;
+	cursor: pointer;
+
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+
+	background-color: #6C70DC !important;
+	color: #FFF !important;
+	border: 0 !important;
+}
+.booknetic_btn_danger
+{
+	height: 46px;
+	font-weight: 600;
+	font-size: 12px !important;
+	line-height: 18px;
+	padding: 5px 25px !important;
+	outline: none !important;
+	cursor: pointer;
+
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+
+	background-color: #FB3E6E !important;
+	color: #FFF !important;
+	border: 0 !important;
+}
+.booknetic_btn_secondary
+{
+	height: 46px;
+	font-weight: 600;
+	font-size: 12px !important;
+	line-height: 18px;
+	padding: 5px 25px !important;
+	outline: none !important;
+	cursor: pointer;
+
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+
+	background-color: #F7F8FB !important;
+	color: #8F9CA7 !important;
+	border: 1px solid #E3EAF3 !important;
+}
+.booknetic_btn_success
+{
+	height: 46px;
+	font-weight: 600;
+	font-size: 12px !important;
+	line-height: 18px;
+	padding: 5px 25px !important;
+	outline: none !important;
+	cursor: pointer;
+
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+
+	background-color: #4FBF65 !important;
+	color: #FFF !important;
+	border: 0 !important;
+}
+
+
+
+
+
+
+
+.booknetic_cp_reschedule_icon
+{
+	display: flex;
+	justify-content: center;
+}
+.booknetic_cp_reschedule_icon > img
+{
+	width: 70px;
+}
+.booknetic_reschedule_popup_body
+{
+	margin-top: 20px;
+	padding: 0 10px;
+}
+.booknetic_reschedule_popup_footer
+{
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+.booknetic_reschedule_popup_footer > :first-child
+{
+	margin-right: 15px;
+}
+
+.booknetic_cp_cancel_icon
+{
+	padding-top: 40px;
+	width: 100%;
+}
+.booknetic_cp_cancel_icon > div
+{
+	margin: auto;
+	width: 80px;
+	height: 80px;
+	border: 1px solid #E4EBF4;
+	background: #F7F8FB;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.booknetic_cancel_popup_body
+{
+	text-align: center;
+	font-size: 16px;
+	padding-top: 30px;
+	font-weight: 500;
+	line-height: 24px;
+}
+
+
+
+
+
+
+
+.booknetic_popup
+{
+	position: fixed;
+	z-index: 999999;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(42,44,49,0.5);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.booknetic_popup > .booknetic_popup_body
+{
+	width: 500px;
+	padding: 40px;
+	border-radius: 2px;
+	background-color: #FFFFFF;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+}
+
+
+
+.booknetic_client_panel .form-control:focus
+{
+	box-shadow: none !important;
+	border-color: #d3dae2;
+}
+.booknetic_client_panel .form-control
+{
+	-webkit-border-radius: 2px !important;
+	-moz-border-radius: 2px !important;
+	border-radius: 2px !important;
+
+	border-color: #E3EAF3;
+	height: 46px;
+
+	font-size: 14px;
+	color: #292D32;
+	outline: none !important;
+}
+.booknetic_client_panel .form-control-plaintext
+{
+	font-size: 14px;
+	color: #292D32;
+	padding-top: 12px;
+}
+.booknetic_client_panel .form-control-lg
+{
+	height: 62px;
+}
+.booknetic_client_panel .form-group
+{
+	margin-bottom: 10px;
+}
+.booknetic_client_panel .form-group > label
+{
+	font-size: 14px;
+	text-align: left;
+	margin-bottom: 0;
+}
+.booknetic_client_panel .form-control[type="file"]
+{
+	display: none;
+}
+.booknetic_client_panel .form-control[type="file"] ~ .form-control
+{
+	line-height: 28px;
+	color: #828F9A;
+	font-size: 14px;
+	position: relative;
+	cursor: pointer;
+	overflow: hidden;
+}
+.booknetic_client_panel .form-control[type="file"] ~ .form-control:after
+{
+	content: attr(data-label);
+	position: absolute;
+	width: 70px;
+	height: 26px;
+	color: #FFF;
+	background: #ADBFC7;
+	font-size: 12px;
+	font-weight: 600;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	right: 10px;
+	top: 9px;
+}
+.booknetic_client_panel textarea.form-control
+{
+	height: 120px;
+}
+
+.booknetic_client_panel .form-row > .booknetic_client_panel .col, .form-row > [class*="col-"]
+{
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: left;
+}
+.booknetic_client_panel [data-required="true"]:after
+{
+	content: '*';
+	color: #fb3e6e;
+	padding-left: 5px;
+}
+
+.booknetic_client_panel select.form-control
+{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+
+	background: url("../icons/arrow-down-xs.svg") white no-repeat 95% !important;
+}
+
+#booknetic-toastr
+{
+	position: fixed;
+	top: 60px;
+	right: 25px;
+	z-index: 999999;
+	width: 380px;
+	min-height: 80px;
+	background: #FFF;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+	-webkit-box-shadow: 0 0 50px 0 #CCC;
+	-moz-box-shadow: 0 0 50px 0 #CCC;
+	box-shadow: 0 0 50px 0 #CCC;
+}
+
+#booknetic-toastr > .booknetic-toast-img
+{
+	float: left;
+
+	background: #f5f6f9;
+	border: 1px solid #e1e8f1;
+	padding: 11px;
+
+	margin: 16px;
+	height: 53px;
+}
+
+#booknetic-toastr > .booknetic-toast-img > img
+{
+	width: 25px;
+	height: 25px;
+}
+
+#booknetic-toastr > .booknetic-toast-details
+{
+	float: left;
+	flex-direction: column;
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	min-height: 80px;
+	width: calc(100% - 120px);
+	overflow: auto;
+}
+
+#booknetic-toastr > .booknetic-toast-details > .booknetic-toast-description
+{
+	color: #828F9A;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif !important;
+}
+
+#booknetic-toastr .booknetic-toast-remove
+{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	right: 15px;
+	color: #adbfc7;
+	height: 38px;
+	width: 20px;
+	background: #FFF;
+	cursor: pointer;
+}
+
+#booknetic_progress
+{
+	position: fixed;
+	z-index: 2147483647;
+	top: 0;
+	left: -6px;
+	width: 0;
+	height: 2px;
+	background: #6c70dc;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+
+	-moz-transition: width 500ms ease-out;
+	-o-transition: width 500ms ease-out;
+	-webkit-transition: width 500ms ease-out;
+	transition: width 500ms ease-out
+}
+
+#booknetic_progress dd,#booknetic_progress dt
+{
+	position: absolute;
+	top: 0;
+	height: 2px;
+
+	-moz-box-shadow: #6c70dc 1px 0 6px 1px;
+	-webkit-box-shadow: #6c70dc 1px 0 6px 1px;
+	box-shadow: #6c70dc 1px 0 6px 1px;
+
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%
+}
+#booknetic_progress dd
+{
+	opacity: 1;
+	width: 20px;
+	right: 0;
+	clip: rect(-6px,22px,14px,10px)
+}
+#booknetic_progress dt
+{
+	opacity: 1;
+	width: 180px;
+	right: -80px;
+	clip: rect(-6px,90px,14px,-6px)
+}
+@-moz-keyframes booknetic_progress_pulse {
+	30% {
+		opacity: 1
+	}
+	60% {
+		opacity: 0
+	}
+	100% {
+		opacity: 1
+	}
+}
+@-ms-keyframes booknetic_progress_pulse {
+	30% {
+		opacity: .6
+	}
+	60% {
+		opacity: 0
+	}
+	100% {
+		opacity: .6
+	}
+}
+@-o-keyframes booknetic_progress_pulse {
+	30% {
+		opacity: 1
+	}
+	60% {
+		opacity: 0
+	}
+	100% {
+		opacity: 1
+	}
+}
+@-webkit-keyframes booknetic_progress_pulse {
+	30% {
+		opacity: .6
+	}
+	60% {
+		opacity: 0
+	}
+	100% {
+		opacity: .6
+	}
+}
+@keyframes booknetic_progress_pulse {
+	30% {
+		opacity: 1
+	}
+	60% {
+		opacity: 0
+	}
+	100% {
+		opacity: 1
+	}
+}
+#booknetic_progress.booknetic_progress_waiting dd,#booknetic_progress.booknetic_progress_waiting dt
+{
+	-moz-animation: booknetic_progress_pulse 2s ease-out 0s infinite;
+	-o-animation: booknetic_progress_pulse 2s ease-out 0s infinite;
+	-webkit-animation: booknetic_progress_pulse 2s ease-out 0s infinite;
+	animation: booknetic_progress_pulse 2s ease-out 0s infinite
+}
+
+.booknetic_loading_layout
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba( 255, 255, 255, 0.2 );
+	z-index: 999999999999999 !important;
+}
+
+
+.datepicker
+{
+	padding-bottom: 8px !important;
+}
+.datepicker td, .datepicker th
+{
+	width: 40px !important;
+	height: 40px !important;
+	color: #111;
+	font-size: 14px;
+	position: relative;
+	padding-top: 14px;
+}
+.datepicker .day:hover, .datepicker .active
+{
+	background: transparent !important;
+	color: #FFF !important;
+}
+.datepicker .day::before
+{
+	position: absolute;
+	content: '';
+	background: #ECEFF2;
+	left: 0;
+	top: 0;
+	width: calc(100% - 10px);
+	height: calc(100% - 10px);
+	margin: 10px 5px 0px 5px;
+	z-index: -1;
+}
+.datepicker .day:hover:before, .datepicker .day.active:before
+{
+	background: #6C70DC;
+}
+.datepicker .dow
+{
+	border-bottom: 1px solid #e4ebf4 !important;
+	color: #C8C9CC;
+	font-size: 13px;
+}
+.datepicker .datepicker-switch , .datepicker .prev, .datepicker .next
+{
+	color: #111;
+	font-size: 14px;
+}
+
+
+
+.booknetic_client_panel .form-control ~ .select2
+{
+	width: 100% !important;
+}
+.booknetic_client_panel .select2-container--bootstrap .select2-selection--single
+{
+	height: 46px !important;
+}
+.booknetic_client_panel .select2-container--bootstrap .select2-selection--single .select2-selection__arrow b
+{
+	border-color: #adbfc7 transparent transparent transparent;
+}
+.booknetic_client_panel .select2-container--bootstrap .select2-selection__clear
+{
+	color: #adbfc7;
+}
+.booknetic_client_panel .select2-container--bootstrap .select2-selection__clear:hover
+{
+	color: #748086 !important;
+}
+.booknetic_client_panel .select2-container--bootstrap .select2-selection--single .select2-selection__rendered
+{
+	color: #292D32;
+	font-size: 14px !important;
+	padding: 6px 0;
+}
+.select2-search__field
+{
+	outline: none !important;
+}
+.select2-container
+{
+	font-family: 'Poppins', sans-serif !important;
+}
+
+.select2-container.select2-container--open
+{
+	z-index: 1000000 !important;
+}
+
+.booknetic_client_panel .iti
+{
+	width: 100% !important;
+}
+
+
+@media only screen and (max-device-width: 1000px)
+{
+	.booknetic_client_panel
+	{
+		width: 100% !important;
+	}
+
+	.booknetic_cp_header
+	{
+		height: 198px;
+	}
+
+	.booknetic_cp_header_customer_card
+	{
+		width: calc(100% - 40px);
+		overflow: hidden;
+	}
+
+	.booknetic_cp_header_customer_image
+	{
+		width: 50px;
+		height: 50px;
+	}
+
+	.booknetic_cp_header_customer_info
+	{
+		margin-left: 15px;
+		width: calc(100% - 65px);
+	}
+
+	.booknetic_cp_header_customer_info > :first-child
+	{
+		font-size: 15px;
+		line-height: 19px;
+	}
+
+	.booknetic_cp_header_customer_info > :last-child
+	{
+		color: #828F9A;
+		font-size: 12px;
+		line-height: 17px;
+	}
+
+	.booknetic_cp_header_logout_btn
+	{
+		width: 32px;
+		white-space: nowrap;
+		overflow: hidden;
+		padding-left: 12px;
+	}
+
+
+	.booknetic_data_table_wrapper
+	{
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+
+		overflow-x: auto;
+		margin: -10px;
+		padding: 10px;
+	}
+	.booknetic_data_table_wrapper > table
+	{
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+
+		min-width: 700px;
+		width: 100% !important;
+		width: auto;
+	}
+	.booknetic_data_table_wrapper > table > thead th
+	{
+		white-space: nowrap;
+		padding-right: 20px !important;
+	}
+
+}
+
+@media only screen and (max-device-width: 570px)
+{
+
+	.booknetic_cp_header_menu_item > span
+	{
+		display: none;
+	}
+
+
+	#booknetic-toastr
+	{
+		top: 20px;
+		left: 20px;
+		width: calc(100% - 40px);
+		z-index: 99999;
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"name": "bloompy/customer_panel",
+	"description": "Bloompy Customer Panel Plugin for Booknetic",
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">=7.4",
+		"tecnickcom/tcpdf": "^6.6"
+	},
+	"autoload": {
+		"psr-4": {
+			"Bloompy\\CustomerPanel\\": "includes/"
+		}
+	}
+}

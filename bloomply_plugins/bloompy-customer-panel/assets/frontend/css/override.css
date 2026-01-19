@@ -1,0 +1,481 @@
+/* Overrider css */
+#booknetic_cp_reschedule_popup .select2-container--bootstrap.select2-container--open .select2-selection{
+    z-index: 999999999 !important;
+}
+
+.select2-container--bootstrap .select2-selection--single .select2-selection__rendered{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: row-reverse !important;
+    gap: 10px !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+.select2-container--bootstrap .select2-selection--single{
+    position: relative !important;
+}
+
+.select2-container--bootstrap.select2-container--open{
+    z-index: 999999999 !important;
+}
+
+/* ==============================
+    intlTelInput Override
+============================== */
+.iti {
+    width: 100%;
+}
+
+.iti__country-list {
+    border: none;
+}
+
+.iti__country {
+    margin: 0 !important;
+    padding: 15px 10px;
+}
+
+.iti__country-name, .iti__dial-code, .iti__flag-box {
+    white-space: nowrap;
+}
+
+.iti__divider {
+    margin: 0 !important;
+    height: 0;
+    padding: 0;
+    border-bottom-color: #E3EAF3;
+}
+
+
+
+.iti__selected-flag {
+    background-color: #F7F8FB;
+    padding: 0 15px;
+}
+
+.iti--allow-dropdown .iti__flag-container:hover .iti__selected-flag {
+    background-color: #F7F8FB;
+}
+
+.iti__country.iti__highlight {
+    background-color: #F7F8FB;
+}
+
+.iti--allow-dropdown input[type=tel] {
+    padding-left: 77px !important;
+    padding-right: 15px;
+}
+
+/* ==============================
+    Flatpicker Override
+============================== */
+
+/* Flatpicker Date Range */
+.flatpickr-calendar {
+    max-width: 100%;
+    max-height: none;
+    padding: 0;
+    border-radius: 2px;
+    background: #fff;
+    border: 1px solid #E3EAF3;
+    box-shadow: none;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.flatpickr-calendar * {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.flatpickr-calendar.arrowTop:before {
+    border-bottom-color: #E3EAF3;
+}
+
+.flatpickr-months .flatpickr-prev-month, .flatpickr-months .flatpickr-next-month {
+    top: 25px;
+    width: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    color: #292D32;
+    fill: #292D32;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.flatpickr-months .flatpickr-prev-month.flatpickr-prev-month, .flatpickr-months .flatpickr-next-month.flatpickr-prev-month {
+    left: 15px;
+}
+
+.flatpickr-months .flatpickr-prev-month.flatpickr-next-month, .flatpickr-months .flatpickr-next-month.flatpickr-next-month {
+    right: 15px;
+}
+
+.flatpickr-months .flatpickr-prev-month svg, .flatpickr-months .flatpickr-next-month svg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    cursor: pointer;
+}
+
+.flatpickr-months .flatpickr-prev-month svg:hover, .flatpickr-months .flatpickr-next-month svg:hover {
+    fill: #6c70dc;
+}
+
+.flatpickr-months, .flatpickr-rContainer, .flatpickr-days {
+    width: 100%;
+}
+
+.dayContainer {
+    width: 100%;
+    min-width: auto;
+    max-width: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flatpickr-current-month .flatpickr-monthDropdown-months {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.numInputWrapper {
+    margin-left: 18px;
+    background: rgba(0, 0, 0, 0.05);
+}
+
+
+.flatpickr-months, .flatpickr-rContainer {
+    margin: 0 auto;
+}
+
+
+.flatpickr-current-month {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 14px;
+    font-weight: 400;
+    position: static;
+    width: auto;
+    left: inherit;
+    height: 20px;
+    text-align: center;
+    transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    -webkit-transform: none;
+}
+
+.flatpickr-months .flatpickr-month {
+    background: transparent;
+    color: #292D32;
+    fill: none;
+    height: auto;
+    padding: 15px 0;
+}
+
+.flatpickr-current-month span.cur-month {
+    font-weight: 400;
+    color: #6c70dc;
+    margin-left: 0;
+    padding: 0;
+}
+
+.flatpickr-day.selected.startRange+.endRange:not(:nth-child(7n+1)), .flatpickr-day.startRange.startRange+.endRange:not(:nth-child(7n+1)), .flatpickr-day.endRange.startRange+.endRange:not(:nth-child(7n+1)) {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+span.flatpickr-weekday {
+    cursor: default;
+    font-size: 12px;
+    font-weight: 400;
+    color: #C8C9CC;
+    margin: 0;
+}
+
+.flatpickr-weekdays {
+    height: auto;
+    padding: 10px 0;
+    border-bottom: 1px solid #E3EAF3;
+}
+
+.flatpickr-day {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 auto;
+    max-width: 12.28%;
+    margin: 1%;
+    line-height: 23px;
+    height: auto;
+    max-height: none;
+    border-radius: 50%;
+    color: #292D32;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.flatpickr-day::before {
+    content: '';
+    float: left;
+    padding-top: 100%;
+}
+
+.flatpickr-day.today {
+    background: #F7F8FB;
+    border-color: #E3EAF3;
+}
+
+.flatpickr-day.today:hover, .flatpickr-day.today:focus {
+    background: #F7F8FB;
+    border-color: #E3EAF3;
+    color: #292D32;
+}
+
+.flatpickr-day.inRange {
+    box-shadow: none;
+}
+
+.flatpickr-day.inRange, .flatpickr-day.prevMonthDay.inRange, .flatpickr-day.nextMonthDay.inRange, .flatpickr-day.today.inRange, .flatpickr-day.prevMonthDay.today.inRange, .flatpickr-day.nextMonthDay.today.inRange, .flatpickr-day:hover, .flatpickr-day.prevMonthDay:hover, .flatpickr-day.nextMonthDay:hover, .flatpickr-day:focus, .flatpickr-day.prevMonthDay:focus, .flatpickr-day.nextMonthDay:focus {
+    background: #F7F8FB;
+    border-color: #E3EAF3;
+}
+
+.flatpickr-day.selected, .flatpickr-day.startRange, .flatpickr-day.endRange, .flatpickr-day.selected.inRange, .flatpickr-day.startRange.inRange, .flatpickr-day.endRange.inRange, .flatpickr-day.selected:focus, .flatpickr-day.startRange:focus, .flatpickr-day.endRange:focus, .flatpickr-day.selected:hover, .flatpickr-day.startRange:hover, .flatpickr-day.endRange:hover, .flatpickr-day.selected.prevMonthDay, .flatpickr-day.startRange.prevMonthDay, .flatpickr-day.endRange.prevMonthDay, .flatpickr-day.selected.nextMonthDay, .flatpickr-day.startRange.nextMonthDay, .flatpickr-day.endRange.nextMonthDay {
+    background: #6c70dc;
+    color: #fff;
+    border-color: #E3EAF3;
+}
+
+.flatpickr-day.flatpickr-disabled, .flatpickr-day.flatpickr-disabled:hover, .flatpickr-day.prevMonthDay, .flatpickr-day.nextMonthDay, .flatpickr-day.notAllowed, .flatpickr-day.notAllowed.prevMonthDay, .flatpickr-day.notAllowed.nextMonthDay {
+    color: #E1E1E1;
+    font-weight: var(--booknetic-font-weight-light);
+}
+
+/* Flatpicker Time Range */
+.flatpickr-calendar.hasTime .flatpickr-time {
+    border-top: none;
+}
+
+.flatpickr-time input {
+    padding: 10px;
+    color: #292D32;
+    font-size: 14px;
+}
+
+.flatpickr-time .flatpickr-time-separator, .flatpickr-time .flatpickr-am-pm {
+    color: #292D32;
+    font-weight: 400;
+}
+
+.flatpickr-time .flatpickr-time-separator {
+    font-weight: 600;
+    width: 5%;
+    border-left: 1px solid #E3EAF3;
+    border-right: 1px solid #E3EAF3;
+}
+
+.flatpickr-time input:hover, .flatpickr-time .flatpickr-am-pm:hover, .flatpickr-time input:focus, .flatpickr-time .flatpickr-am-pm:focus {
+    background: none;
+}
+
+.flatpickr-time input.flatpickr-hour {
+    font-weight: 400;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* .flatpickr-time input::-moz-selection {
+    background: var(--booknetic-secondary-bg-color);
+}
+
+.flatpickr-time input::selection {
+    background: var(--booknetic-secondary-bg-color);
+} */
+
+
+
+.flatpickr-calendar .dayContainer {
+    width: 302px !important;
+    min-width: 280px;
+    max-width: 302px !important;
+}
+.flatpickr-calendar .flatpickr-days {
+    width: 302px;
+}
+
+
+.flatpickr-time {
+    max-height: none;
+    line-height: 46px;
+}
+
+.flatpickr-time .numInputWrapper {
+    height: 46px;
+}
+
+.flatpickr-time .flatpickr-am-pm {
+    border-left: 1px solid #E3EAF3;
+}
+
+.flatpickr-calendar:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+/* Transitions */
+.flatpickr-calendar, .flatpickr-day, .flatpickr-months .flatpickr-prev-month svg, .flatpickr-months .flatpickr-next-month svg {
+    transition: all 250ms ease-in-out;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+}
+
+/* ==============================
+    Select2 Override
+============================== */
+.select2 {
+    width: 100% !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    box-sizing: border-box;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.select2-container--default .select2-selection--multiple {
+    background-color: #ffffff;
+    border: 1px solid #E3EAF3;
+    cursor: text;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.select2-container .select2-selection--multiple {
+    display: flex;
+    align-items: center;
+    min-height: 46px;
+    padding: 5px 15px;
+}
+
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border-color: #E3EAF3;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    color: #ffffff;
+    background: #ADBFC7;
+    border: 0;
+    padding: 3px 6px;
+    margin: 3px 6px 3px 0;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #828F9A;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 6px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover {
+    color: #292D32;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__clear {
+    margin-right: 0;
+    color: #828F9A;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__clear:hover {
+    color: #292D32;
+}
+
+.select2-container .select2-search--inline .select2-search__field::placeholder {
+    color: #828F9A;
+}
+
+.select2-container .select2-search--inline .select2-search__field {
+    margin: 5px 0;
+}
+
+.select2-dropdown {
+    background-color: #ffffff;
+    border: 1px solid #E3EAF3;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.select2-container--default .select2-results__option[aria-selected=true] {
+    background-color: #F5F7FA;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #ADBFC7;
+    color: #ffffff;
+}
+
+/* Transitions */
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove, .select2-container--default .select2-selection--multiple .select2-selection__clear {
+    transition: all 250ms ease-in-out;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+}
+
+/* RTL */
+
+html[dir="rtl"] .iti--allow-dropdown input[type=tel] {
+    direction: ltr;
+    text-align: right;
+}
