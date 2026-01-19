@@ -1,0 +1,167 @@
+# Copyright (C) 2025 Bloompy
+# This file is distributed under the same license as the Bloompy Tenant Info package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bloompy Tenant Info 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.bloompy.nl\n"
+"POT-Creation-Date: 2025-01-31 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: App/BloompyTenantsAddon.php:29
+#: App/BloompyTenantsAddon.php:43
+msgid "Booking Page Info"
+msgstr ""
+
+msgid "Configure booking page information and footer content"
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Settings saved successfully!"
+msgstr ""
+
+msgid "Error saving settings. Please try again."
+msgstr ""
+
+#: App/Listener.php:14
+msgid "Bloompy company name"
+msgstr ""
+
+#: App/Listener.php:20
+msgid "Bloompy footer text"
+msgstr ""
+
+#: App/Listener.php:26
+msgid "Bloompy privacy policy URL"
+msgstr ""
+
+#: App/Listener.php:32
+msgid "Bloompy terms & conditions URL"
+msgstr ""
+
+#: App/Listener.php:86
+#: App/Backend/view/index.php:19
+#: App/Backend/view/index.php:31
+msgid "Booking Page Info"
+msgstr ""
+
+#: App/Backend/view/index.php:21
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: App/Backend/view/index.php:36
+#: App/Backend/view/index.php:37
+msgid "Company name"
+msgstr ""
+
+#: App/Backend/view/index.php:42
+#: App/Backend/view/index.php:43
+msgid "Privacy Policy URL"
+msgstr ""
+
+#: App/Backend/view/index.php:46
+#: App/Backend/view/index.php:47
+msgid "Terms & Conditions URL"
+msgstr ""
+
+#: App/Backend/view/index.php:52
+msgid "Footer first column"
+msgstr ""
+
+#: App/Backend/view/index.php:60
+msgid "Footer second column"
+msgstr ""
+
+#: App/Backend/view/index.php:68
+msgid "Footer third column"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:65
+msgid "January"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:66
+msgid "February"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:67
+msgid "March"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:68
+msgid "April"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:69
+msgid "May"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:70
+msgid "June"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:71
+msgid "July"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:72
+msgid "August"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:73
+msgid "September"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:74
+msgid "October"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:75
+msgid "November"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:76
+msgid "December"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:79
+msgid "Mon"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:80
+msgid "Tue"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:81
+msgid "Wed"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:82
+msgid "Thu"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:83
+msgid "Fri"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:84
+msgid "Sat"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:85
+msgid "Sun"
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:88
+msgid "Select..."
+msgstr ""
+
+#: App/BloompyTenantsAddon.php:89
+msgid "Searching..."
+msgstr ""

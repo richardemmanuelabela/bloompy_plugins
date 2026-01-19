@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"POT-Creation-Date: 2025-05-14 23:11+0800\n"
+"PO-Revision-Date: 2025-05-14 23:11+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ../app\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: Frontend/assets/js/datepicker.min.js\n"
+"X-Poedit-SearchPathExcluded-1: Frontend/assets/js/intlTelInput.min.js\n"
+"X-Poedit-SearchPathExcluded-2: Frontend/assets/js/jquery.nicescroll.min.js\n"
+"X-Poedit-SearchPathExcluded-3: Frontend/assets/js/utilsIntlTelInput.js\n"
+
+#: Backend/view/connect/connect_register_settings.php:19
+msgid "Activation pending"
+msgstr ""
+
+#: Backend/view/connect/connect_register_settings.php:20
+msgid "Your Mollie account is under review"
+msgstr ""
+
+#: Backend/view/connect/connect_register_settings.php:22
+msgid "Your current verification status is"
+msgstr ""
+
+#: Backend/view/connect/connect_register_settings.php:24
+msgid "Go to Mollie Dashboard"
+msgstr "Ga naar het Mollie-dashboard"
+
+#: Backend/view/connect/connect_register_settings.php:26
+msgid "Your Mollie account is fully verified!"
+msgstr "Je Mollie-account is volledig geverifieerd!"
+
+#: Backend/view/connect/connect_register_settings.php:27
+msgid "No further action is needed."
+msgstr "Er is geen verdere actie nodig."
+
+#: Backend/view/connect/connect_settings.php:22
+msgid "Verified"
+msgstr "Geverifieerd"
+
+#: Backend/view/connect/connect_settings.php:24
+msgid "Platform fee"
+msgstr "Bloompy fee per payment"
+
+#: Backend/view/connect/connect_settings.php:27
+msgid "Revoke Connection"
+msgstr "Verbreek verbinding"
+
+#: Backend/view/connect/connect_settings_error.php:13
+msgid "Something went wrong..."
+msgstr ""
+
+#: Backend/view/connect/connect_settings_error.php:14
+msgid "Please contact your vendor provider."
+msgstr ""
+
+#: Backend/view/connect/connect_setup_settings.php:19
+msgid "Not activated"
+msgstr "Niet geactiveerd"
+
+#: Backend/view/connect/connect_setup_settings.php:20
+msgid "Connect your Mollie Account"
+msgstr "Koppel je Mollie account"
+
+#: Backend/view/connect/connect_setup_settings.php:21
+msgid "Bloompy fee per payment"
+msgstr "Bloompy fee per betaling"
+
+#: Backend/view/connect/connect_setup_settings.php:22
+msgid "Click the button to start the registration process for Mollie Connect"
+msgstr "Klik op de koppelknop om Mollie te koppelen"
+
+#: Backend/view/connect/connect_setup_settings.php:23
+msgid "By clicking the register button you agree to our"
+msgstr "Met het klikken op de koppelknop ga je akkoord met de"
+
+#: Backend/view/connect/connect_setup_settings.php:23
+msgid "terms and services"
+msgstr "algemene voorwaarden"
+
+#: Backend/view/connect/connect_setup_settings.php:24
+msgid "Register"
+msgstr "Koppel"
+
+#: Backend/view/modal/connect_settings_saas.php:17
+msgid "Application ID"
+msgstr ""
+
+#: Backend/view/modal/connect_settings_saas.php:22
+msgid "Secret Token"
+msgstr ""
+
+#: Backend/view/modal/connect_settings_saas.php:27
+msgid "Platform Fee"
+msgstr "Bloompy Fee"
+
+#: Backend/view/modal/connect_settings_saas.php:32
+msgid "Charge as"
+msgstr ""
+
+#: Backend/view/modal/connect_settings_saas.php:40
+msgid "Terms and Conditions Page URL"
+msgstr "URL van de pagina met algemene voorwaarden"
+
+#: Listener.php:32
+msgid "Fee cannot be less than 0"
+msgstr "De vergoeding mag niet minder zijn dan 0"
+
+#: Listener.php:35
+msgid "Fee cannot be higher than 100%"
+msgstr "De vergoeding mag niet hoger zijn dan 100%"
+
+#: Listener.php:38
+msgid "Please, fill all fields to enable Mollie Connect payment gateway."
+msgstr "Vul alle velden in om Mollie Connect als betaalmethode te activeren."
+
+#: MollieAddon.php:30
+msgid "Platform Fee - Mollie Connect"
+msgstr "Platformvergoeding - Mollie Connect"
+
+#: MollieAddon.php:31
+msgid "Use fixed amount? Enter 1 for yes."
+msgstr "Vast bedrag gebruiken? Voer 1 in voor ja."
+
+#: MollieAddon.php:32 MollieAddon.php:130
+msgid "Mollie Connect integration"
+msgstr "Mollie Connect-integratie"
+
+#: MollieAddon.php:42 MollieAddon.php:135
+msgid "Mollie Connect settings"
+msgstr "Mollie Connect-instellingen"
+
+#: MollieConnectGateway.php:33
+msgid "Mollie Payment"
+msgstr "Mollie-betaling"
+
+#: MollieConnectGateway.php:202 MollieConnectGateway.php:249
+#: MollieConnectGateway.php:279
+msgid "Couldn't create a payment!"
+msgstr "Betaling kon niet worden aangemaakt!"

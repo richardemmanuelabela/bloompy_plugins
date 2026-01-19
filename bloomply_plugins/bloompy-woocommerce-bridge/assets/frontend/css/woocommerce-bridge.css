@@ -1,0 +1,294 @@
+@font-face {
+    font-family: 'MaBryPro-Medium';
+    src: url('../fonts/MabryPro-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+pre {
+    white-space: normal;
+}
+.main-wrapper {
+    font-family: 'MaBryPro-Medium', Helvetica, Arial, Lucida, sans-serif !important;
+    width: 100%;
+    padding: 120px 40px 40px 40px; 
+    background: white; 
+    border-radius: 12px; 
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid #E6E9EF;
+    border-radius:20px;
+}
+.plan-section {
+    font-family: 'MaBryPro-Medium', Helvetica, Arial, Lucida, sans-serif !important;
+    display:flex;
+    flex-direction: row;
+    gap: 4%;
+}
+.success-icon-container {
+    width: 80px; 
+    height: 80px; 
+    background: #00F95C; 
+    border-radius: 50%; 
+    margin: 0 auto 32px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+.thank-you-h1 {
+    color: #001F5E; 
+    margin-bottom: 16px; 
+    font-size: 30px; 
+    font-weight: 700;
+}
+.failed-h2 {
+    color: #001F5E; 
+    margin-bottom: 16px; 
+    font-size: 26px; 
+    font-weight: 700;
+}
+.thank-you-content {
+    color: #181818; 
+    font-size: 18px; 
+    margin-bottom: 40px; 
+    line-height: 1.6;
+    display: inline-block;
+    white-space: normal;
+}
+.order-details-section {
+    background: #f8f9fa; 
+    border-radius: 20px; 
+    padding: 24px; 
+    margin-bottom: 32px; 
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    width:48%;
+}
+.order-details-h3 {
+    color: #001F5E;
+    margin-bottom: 16px; 
+    font-size: 24px;
+    font-weight:700;
+}
+.order-details {
+    display: grid; 
+    gap: 12px;
+}
+.order-details .field {
+    color:#181818;
+    font-size:18px;
+}
+
+.order-details-item {
+    display: flex; 
+    justify-content: space-between; 
+    padding: 8px 0; 
+    border-bottom: 1px solid #e9ecef;
+}
+.order-details-item-payment-status {
+    display: flex; 
+    justify-content: space-between; 
+    padding: 8px 0;
+}
+.order-details-item .field-name, 
+.order-details-item-payment-status .field-name{
+    color: #181818;
+}
+.order-details-item .item-value {
+    font-weight: 500; 
+    color: #333;
+}
+.order-details-item-payment-status .item-value {
+    font-weight: 500; 
+    color: #28a745;
+}
+.plan-information-section {
+    background: #fff; 
+    border-radius: 8px; 
+    padding: 24px; 
+    margin-bottom: 32px; 
+    text-align: left; 
+    border:1px solid #E6E9EF;
+    border-radius:20px;
+    display: flex;
+    width:48%;
+    flex-direction: column;
+}
+.plan-information-h3 {
+    color: #001F5E; 
+    margin-bottom: 16px; 
+    font-size: 24px;
+    font-weight:700;
+}
+.plan-information {
+    display: grid; 
+    gap: 12px;
+}
+.plan-container {
+    display: flex; 
+    padding: 8px 0; 
+    border-bottom: 1px solid #E6E9EF;
+    justify-content: space-between;
+}
+.plan-container-description {
+    padding: 8px 0; 
+    box-sizing: border-box;
+    width:100%;
+    border-bottom: 1px solid #cce7ff;
+    display:flex;
+}
+.plan-expiration-container {
+    display: flex; 
+    padding: 8px 0; 
+    border-bottom: 1px solid #cce7ff;
+    justify-content: space-between;
+}
+.plan-status-container {
+    display: flex; 
+    padding: 8px 0;
+    justify-content: space-between;
+}
+.plan-details-label {
+    color: #181818;
+    min-width:150px;
+}
+.plan-details-description-label {
+    color: #181818; 
+    display: inline-block;
+    margin-bottom: 4px;
+    min-width:150px;
+}
+.plan-name {
+    font-weight: 600; 
+    color: #001F5E;
+}
+.plan-description {
+  display: inline-block;     
+  font-size: 18px;
+  text-align: justify;
+  white-space: normal;       
+  overflow-wrap: anywhere;   
+  word-break: break-word;   
+  line-height: 1.5;
+  justify-content: space-between;
+  color: #181818;
+
+}
+.plan-expiration {
+    font-weight: 500; 
+    color: #333;
+    display: inline-block;
+    text-align: left;
+    white-space: normal;
+}
+.plan-status {
+    font-weight: 500; 
+    color: #28a745;
+}
+.next-steps-wrapper {
+    background: #fff3cd; 
+    border-radius: 8px; 
+    padding: 24px; 
+    margin-bottom: 32px; 
+    text-align: left; 
+    border-left: 4px solid #ffc107;
+    display: flex;
+    flex-direction: column;
+}
+.next-steps-h3 {
+    color: #856404; 
+    margin-bottom: 16px; 
+    font-size: 20px;
+    font-weight:700;
+}
+.next-steps-ul {
+    color: #856404; 
+    margin: 0; 
+    padding-left: 20px; 
+    line-height: 1.6;
+    display:flex;
+    flex-direction:column;
+}
+.next-steps-ul li {
+    white-space: normal;       
+  overflow-wrap: anywhere;   
+  word-break: break-word;   
+}
+.action-buttons-container {
+    display: flex; 
+    gap: 16px; 
+    justify-content: center; 
+    flex-wrap: wrap;
+}
+.support-information-container {
+    margin-top: 40px; 
+    padding-top: 24px; 
+    border-top: 1px solid #e9ecef;
+    display: flex;
+    flex-direction: column;
+}
+.go-to-dashboard-btn {
+    font-family: 'MaBryPro-Medium', Helvetica, Arial, Lucida, sans-serif !important;
+    display: inline-block; 
+    background-color: #fff !important;
+    border-radius: 60px;
+    border: 1px solid #001F5E !important;
+    font-size: 16px !important;
+    color: #001F5E !important;
+    text-transform: Capitalize;
+    font-weight: 100 !important;
+    display: inline-block;
+    white-space: normal;
+    padding: 5px 15px;
+    font-weight: 700 !important;
+}
+.manage-plan-btn {
+    font-family: 'MaBryPro-Medium', Helvetica, Arial, Lucida, sans-serif !important;
+    display: inline-block; 
+    background-color: #fff !important;
+    border-radius: 60px;
+    border: 1px solid #001F5E !important;
+    font-size: 16px !important;
+    color: #001F5E !important;
+    text-transform: Capitalize;
+    font-weight: 100 !important;
+    display: inline-block;
+    white-space: normal;
+    padding: 5px 15px;
+    font-weight: 700 !important;
+}
+.support-information-label {
+    color: #181818; 
+    margin-bottom: 8px;
+}
+.support-information-details {
+    color: #181818; 
+    font-size: 14px;
+    display: inline-block;
+    white-space: normal;
+}
+.support-information-details a {
+    color: #001F5E;
+}
+@media all and (max-width: 882px) {
+    .plan-section {
+        font-family: 'MaBryPro-Medium', Helvetica, Arial, Lucida, sans-serif !important;
+        display:flex;
+        flex-direction: column;
+        gap: 0;
+    }
+    .order-details-section, 
+    .plan-information-section{
+        width:100%;
+    }
+}
+@media all and (max-width: 600px) {
+.main-wrapper {
+    padding: 80px 10px 20px 10px; 
+}
+.plan-details-description-label,
+.plan-details-label {
+    min-width:130px;
+}
+}

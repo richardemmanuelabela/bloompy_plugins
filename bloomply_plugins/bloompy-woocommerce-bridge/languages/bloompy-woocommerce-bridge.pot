@@ -1,0 +1,165 @@
+# Copyright (C) 2025 Bloompy
+# This file is distributed under the same license as the Bloompy WooCommerce Bridge package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bloompy WooCommerce Bridge 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.bloompy.nl\n"
+"POT-Creation-Date: 2025-01-31 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: App/WooCommerceBridgeAddon.php:15
+msgid "WooCommerce Bridge"
+msgstr ""
+
+#: App/Backend/Controller.php:11
+msgid "WooCommerce Bridge Settings"
+msgstr ""
+
+#: App/Backend/view/index.php:8
+msgid "This plugin integrates WooCommerce with Booknetic SaaS for plan assignment and upgrades."
+msgstr ""
+
+#: App/Backend/view/index.php:9
+msgid "Features:"
+msgstr ""
+
+#: App/Backend/view/index.php:11
+msgid "Automatic plan assignment based on WooCommerce orders and subscriptions"
+msgstr ""
+
+#: App/Backend/view/index.php:12
+msgid "Product meta box for associating Booknetic plans"
+msgstr ""
+
+#: App/Backend/view/index.php:13
+msgid "Customized checkout flow for SaaS plans"
+msgstr ""
+
+#: App/Backend/view/index.php:14
+msgid "Post-purchase redirects to Booknetic admin"
+msgstr ""
+
+#: App/WooCommerceBridgeAddon.php:46
+msgid "Plan Upgrades"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:25
+msgid "Plan Upgrades"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:39
+msgid "Current Plan"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:40
+msgid "Pay Period"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:41
+msgid "Expiration Date"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:42
+msgid "Status"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:55
+msgid "Expires:"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:57
+msgid "No expiration date"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:61
+msgid "ACTIVE"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:68
+msgid "No plan currently assigned."
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:79
+msgid "Plan Features & Usage"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:102
+msgid "Available Upgrades"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:144
+msgid "Select Plan Option:"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:147
+msgid "-- Choose an option --"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:167
+msgid "Subscribe"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:173
+msgid "Subscribe Now"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:182
+msgid "No upgrade options available at the moment."
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:183
+msgid "Please contact support for more information."
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:188
+msgid "How it works"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:190
+msgid "Select a plan option above to upgrade your current subscription"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:191
+msgid "You'll be redirected to WooCommerce to complete the purchase"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:192
+msgid "Your new plan will be activated immediately after payment"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:193
+msgid "For plans with multiple options, choose the variation that best fits your needs"
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:231
+msgid "Please select a plan option first."
+msgstr ""
+
+#: App/Backend/view/plan_upgrades.php:236
+msgid "Are you sure you want to subscribe to"
+msgstr ""
+
+#: App/Backend/PlanUpgradesController.php:171
+msgid "Staff Members"
+msgstr ""
+
+#: App/Backend/PlanUpgradesController.php:180
+msgid "Services"
+msgstr ""
+
+#: App/Backend/PlanUpgradesController.php:189
+msgid "Locations"
+msgstr ""
+
+#: App/Backend/PlanUpgradesController.php:198
+msgid "Appointments"
+msgstr ""
+
+#: App/Backend/PlanUpgradesController.php:207
+msgid "Customers"
+msgstr "" 
