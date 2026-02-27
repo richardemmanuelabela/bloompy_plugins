@@ -1,0 +1,60 @@
+html .fs-modal-body .form-group .list_select {
+	background: url('../icons/bloompy-select-arrow.png') white no-repeat 95% !important;
+
+}
+.fs-modal-body {
+	font-family: Poppins, sans-serif;
+}
+.newsletter-modal-body-inner {
+	padding:20px 0;
+}
+.newsletter-modal-body-inner .form-row {
+	margin-right:0 !important;
+	margin-left:0 !important;
+}
+.list_select:invalid,
+.input-label,
+.list_select:invalid{
+	font-size:14px;
+	font-weight:400;
+}
+.no-value,
+.list_select:invalid{
+	color:#828F9A;
+}
+
+.input-label {
+	color:#292D32;
+	padding: 20px 30px;
+	margin-bottom: 0 !important;
+}
+.field-name {
+	font-size:14px;
+	font-weight:500;
+	color: #292D32;
+	padding:20px 30px;
+	margin-bottom:0 !important;
+}
+.newsletter-select-fow {
+	box-shadow: 0 0 10px 0 #EAECEF;
+	align-items: center;
+	margin-bottom:10px;
+}
+.input-label {
+	padding: 10px 20px 10px 30px !important;
+	margin-bottom: 0 !important;
+}
+.input-container {
+	margin-bottom: 0 !important;
+	padding-right: 30px !important;
+	padding: 10px 30px 10px 10px !important
+}
+.field-name-container {
+	padding: 0 20px;
+}
+html .fs-modal .fs-modal-title .newsletter-title-text {
+	font-weight:400;
+	font-size:20px ;
+	color: #292D32;
+	padding-left:0;
+}

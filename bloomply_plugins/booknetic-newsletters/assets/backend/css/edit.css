@@ -1,0 +1,135 @@
+.newsletter-wrapper .accordion {
+    width: 100%;
+    border-radius: 5px;
+    margin-top:30px;
+}
+
+.newsletter-wrapper .accordion-item {
+    margin-bottom: 15px;
+    box-shadow: 0 0 10px 0 #EAECEF;
+}
+
+
+.newsletter-wrapper .accordion-header {
+    padding: 20px 20px 20px 30px;
+    cursor: pointer;
+    background: #fff;
+    transition: box-shadow .2s ease-in-out;
+    display:flex;
+    justify-content: space-between;
+}
+
+.newsletter-wrapper .accordion-header:hover {
+    box-shadow: 0 0 10px 1px #dbdde0;
+}
+.newsletter-wrapper .accordion-header h2{
+    width:500px;
+    font-weight: 400;
+    font-size:20px;
+    margin:0
+}
+
+
+.newsletter-wrapper .accordion-content {
+    display: none; /* hidden by default */
+    padding: 15px;
+    background: #fff;
+    border-top:solid 1px #E4EAF2;
+}
+.newsletter-wrapper {
+    width: 100%;
+    padding:0 30px ;
+    margin: 20px 0;
+    border-radius:8px;
+    font-family: 'Poppins', sans-serif;
+}
+.newsletter-wrapper .newsletter-header {
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+}
+.newsletter-wrapper .newsletter-title-page {
+    width:385px;
+}
+.newsletter-wrapper .newsletter-buttons {
+    width:100%;
+}
+.newsletter-wrapper .save-newsletter {
+    background-color: #4abf60 !important;
+    color: #FFF !important;
+    border: 1px solid #4abf60 !important;
+}
+.newsletter-wrapper .success-message {
+    color:green;margin-bottom:12px;
+}
+.newsletter-wrapper .title-page {
+    margin-bottom:16px;
+    font-weight: 400;
+    font-size:28px;
+}
+.newsletter-wrapper .accordion-content fieldset {
+    border:1px solid #eee;padding:16px 24px 24px 24px;border-radius:6px;margin-bottom:32px;
+}
+.newsletter-wrapper .form-control-container {
+    margin-bottom:16px;
+}
+.newsletter-wrapper .form-control-container label {
+    display:block;
+    font-weight:400;
+    color: #292D32;
+    font-size: 14px;
+}
+.newsletter-wrapper .active-list {
+}
+.newsletter-wrapper .active-list h3{
+    margin-bottom:12px;
+    font-size:14px;
+    font-weight:400;
+}
+.newsletter-wrapper .active-list select {
+    width:100%;
+    padding:8px;
+}
+.newsletter-wrapper .assign-list-container {
+    margin-top:16px;
+}
+.newsletter-wrapper .assign-list-link {
+    color:#3b82f6;
+    text-decoration:underline;
+    cursor:pointer;
+}
+.newsletter-wrapper .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 4px;
+    height: 11px;
+    margin-top: 3px;
+    margin-right: 10px;
+}
+.newsletter-wrapper .downIcon {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.newsletter-wrapper font-control {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.active i {
+    transform: rotate(-135deg) !important;
+    -webkit-transform: rotate(-135deg)!important;
+}
+html .newsletter-wrapper .form-group select {
+    background: url('../icons/bloompy-select-arrow.png') white no-repeat 95% !important;
+
+}
+.newsletter-wrapper select option:hover {
+    background-color: #ADBFC7;
+    color: #fff;
+}
+@media all and (max-width: 600px) {
+    .newsletter-title-page {
+        width:200px;
+    }
+}
