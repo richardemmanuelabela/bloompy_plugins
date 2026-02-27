@@ -1,0 +1,78 @@
+# Bloompy Invoices - Git Ignore
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# IDE & Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Logs
+*.log
+debug.log
+error.log
+
+# Build & Distribution
+/build/
+/dist/
+*.zip
+*.tar.gz
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~.nib
+*.orig
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Composer
+composer.phar
+/vendor/
+
+# WordPress
+wp-config.php
+wp-config-local.php
+
+# Testing
+/tests/tmp/
+/tests/reports/
+coverage/
+.phpunit.result.cache
+
+# Cache
+/.cache/
+*.cache
+
+# NPM/Yarn (if used in future)
+package-lock.json
+yarn.lock
+.npm
+.yarn
+
+# Documentation builds (if generated)
+/docs/_build/
+
+# Personal notes
+TODO.txt
+NOTES.txt
+scratch.md
