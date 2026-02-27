@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"psr-4": {
+			"BookneticAddon\\Newsletters\\": "App/"
+		}
+	},
+	"config": {
+		"platform": {
+			"php": "5.6"
+		}
+	}
+}

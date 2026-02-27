@@ -1,0 +1,126 @@
+# Copyright (C) 2025 Bloompy
+# This file is distributed under the same license as the Newsletters for Booknetic package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsletters for Booknetic 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.bloompy.nl\n"
+"POT-Creation-Date: 2025-01-31 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: App/NewslettersAddon.php:22
+#: App/NewslettersAddon.php:32
+msgid "Newsletters"
+msgstr ""
+
+#: App/Backend/view/assign.php:24
+#: App/Backend/view/assign.php:52
+msgid "Back to default list"
+msgstr ""
+
+#: App/Backend/view/assign.php:25
+msgid "Assign MailBlue Lists to Services"
+msgstr ""
+
+#: App/Backend/view/assign.php:29
+#: App/Backend/view/assign.php:57
+#: App/Backend/view/modal/assign.php:40
+#: App/Backend/view/modal/assign.php:66
+msgid "Service"
+msgstr ""
+
+#: App/Backend/view/assign.php:30
+msgid "MailBlue List"
+msgstr ""
+
+#: App/Backend/view/assign.php:39
+#: App/Backend/view/assign.php:67
+#: App/Backend/view/modal/assign.php:53
+#: App/Backend/view/modal/assign.php:79
+msgid "-- No list --"
+msgstr ""
+
+#: App/Backend/view/assign.php:53
+msgid "Assign MailChimp Lists to Services"
+msgstr ""
+
+#: App/Backend/view/assign.php:58
+msgid "MailChimp List"
+msgstr ""
+
+#: App/Backend/view/assign.php:80
+#: App/Backend/view/configure.php:105
+#: App/Backend/view/modal/assign.php:97
+msgid "Save"
+msgstr ""
+
+#: App/Backend/view/modal/assign.php:29
+msgid "MailBlue Assigning Lists to Services"
+msgstr ""
+
+#: App/Backend/view/modal/assign.php:43
+msgid "MailBlue List"
+msgstr ""
+
+#: App/Backend/view/modal/assign.php:69
+msgid "MailChimp List"
+msgstr ""
+
+#: App/Backend/view/modal/assign.php:96
+msgid "CANCEL"
+msgstr ""
+
+#: App/Backend/view/modal/assign.php:97
+msgid "SAVE"
+msgstr ""
+
+#: App/Backend/view/configure.php:25
+msgid "Newsletter Integrations"
+msgstr ""
+
+#: App/Backend/view/configure.php:35
+msgid "MailBlue"
+msgstr ""
+
+#: App/Backend/view/configure.php:40
+#: App/Backend/view/configure.php:77
+msgid "API Key"
+msgstr ""
+
+#: App/Backend/view/configure.php:44
+msgid "API URL"
+msgstr ""
+
+#: App/Backend/view/configure.php:52
+msgid "Default MailBlue List"
+msgstr ""
+
+#: App/Backend/view/configure.php:54
+#: App/Backend/view/configure.php:87
+msgid "-- No default list --"
+msgstr ""
+
+#: App/Backend/view/configure.php:62
+#: App/Backend/view/configure.php:95
+msgid "Assign lists to individual services"
+msgstr ""
+
+#: App/Backend/view/configure.php:72
+msgid "MailChimp"
+msgstr ""
+
+#: App/Backend/view/configure.php:85
+msgid "Default MailChimp List"
+msgstr ""
+
+#: App/Backend/view/newsletter_assignment_link.php:16
+msgid "Newsletter Assignment"
+msgstr ""
+
+#: App/Backend/view/newsletter_assignment_link.php:19
+msgid "Assign MailBlue and MailChimp lists to services for automatic newsletter subscriptions"
+msgstr ""
